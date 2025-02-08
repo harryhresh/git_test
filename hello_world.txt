@@ -3,3 +3,7 @@ I am a hairy monster.
 The good kind of hairy. 
 The good kind of monster.
 Bye for now.
+
+Writing one more line.
+To satisfy a coding requirement.
+Is this a Haiku?
